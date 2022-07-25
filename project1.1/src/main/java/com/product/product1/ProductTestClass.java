@@ -5,9 +5,12 @@ public class ProductTestClass {
 @Test
 void test1() {
 	System.out.println("Not yet implemented");
+	System.out.println("Not yet implemented");
+	System.out.println("Not yet implemented");
+	
 }
 void test2() {
-	System.out.println("Not yet implemented");
+	System.out.println("not yet implemented");
 	
 }
 

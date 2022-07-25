@@ -7,7 +7,8 @@ void test1() {
 	System.out.println("not yet implemented");
 }
 void test2() {
-	System.out.println("not yet implemented");
+	System.out.println("Not yet implemented");
+	
 }
 
 }
